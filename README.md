@@ -33,11 +33,12 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <center>Shell</center>
 </td>
-</tr>
 <td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <center>Vim</center>
 </td>
+</tr>
+<tr>
 <td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <center>CSS3</center>
@@ -70,6 +71,8 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 <center>Django</center>
 </td>
+</tr>
+<tr>
 <td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <center>Flask</center>
@@ -102,6 +105,7 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <center>Nginx</center>
 </td>
+</tr>
 </tbody>
 </table>
 

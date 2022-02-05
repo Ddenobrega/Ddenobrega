@@ -14,4 +14,4 @@ I'm Full-Stack Developer, Malware Analyst and DevOps Engineer with 3+ years of h
 
 ## _Contact & Socials_
 
-![](https://img.shields.io/twitter/follow/DcDenobrega?label=Twitter&style=social) ![](https://img.shields.io/badge/Linkiden-Linkiden-blue?link=https://linkedin.com/in/ddenobrega)
+![](https://img.shields.io/twitter/follow/DcDenobrega?label=Twitter&style=social) ![](https://img.shields.io/badge/Linkiden-Linkiden-blue?link=https://linkedin.com/in/ddenobrega) ![](https://img.shields.io/badge/Email-Email-red?link=malito://dcdenobrega@gmail.com)

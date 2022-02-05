@@ -4,6 +4,7 @@
 
 <table>
 <tbody>
+<tr>
 <td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <center>VueJs</center>
@@ -32,6 +33,7 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <center>Shell</center>
 </td>
+</tr>
 <td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <center>Vim</center>

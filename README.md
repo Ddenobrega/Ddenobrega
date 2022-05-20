@@ -117,7 +117,7 @@ https://ddenobrega.github.io/portfolio
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddenobrega&layout=compact&langs_count=30)
 
-I'm Full-Stack Developer, Malware Analyst and DevOps Engineer with 3+ years of hands on experience developing, maintaining and deploying solutions using a range of strategies, programming languages and tech stacks.
+I'm a Software Engineer, Security Analyst, and IT consultant with years of hands-on experience. I'm always available to render assistance and actively accept commissions. Feel free to contact me if you have any inquiries.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ddenobrega&theme=tokyonight&show_icons=true&count_private=true)
 

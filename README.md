@@ -10,6 +10,32 @@ https://ddenobrega.github.io/portfolio
 <tbody>
 <tr>
 <td>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<center>Electron</center>
+</td>
+<td>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<center>Rust</center>
+</td>
+<td>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<center>C11++</center>
+</td>
+<td>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<center>NestJS</center>
+</td>
+<td>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<center>Typescript</center>
+</td>
+<td>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<center>Angular</center>
+</td>
+</tr>
+<tr>
+<td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <center>VueJs</center>
 </td>
@@ -27,7 +53,7 @@ https://ddenobrega.github.io/portfolio
 </td>
 <td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<center>CLang</center>
+<center>C99</center>
 </td>
 <td>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
@@ -72,7 +98,7 @@ https://ddenobrega.github.io/portfolio
 <center>GoLang</center>
 </td>
 <td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <center>Django</center>
 </td>
 </tr>

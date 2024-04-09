@@ -6,6 +6,7 @@
 
 - Highest Level of Education: **Bsc. Computer Science** (2022-2026)
 - Years of Work Experience: **4 Years Employed at various companies**
+- Curriculum Vitae: [Link](./cv.pdf)
 
 I’m seasoned professional specializing in cybersecurity, software engineering, and cryptocurrency derivatives trading, that has accumulted over five years of hands on industry experience. I am dedicated to fostering technological innovation and excellence. As an active contributor to open-source projects, I embrace the ethos of collaboration and progress. Through meticulous research, strategic analysis, and practical insights. Feel free to explore my curated portfolio of projects and delve into comprehensive analyses to stay informed and empowered in the dynamic realms of technology and finance.
 <br />

@@ -13,11 +13,17 @@ I’m seasoned professional specializing in cybersecurity, software engineering,
 
 ## _Certifications Attained_
 
-| Title                                                                                  | Issuer                           |
-| -------------------------------------------------------------------------------------- | -------------------------------- |
-| [Kotlin Fundamentals](./certifications/e958e310-c968-4019-b40b-2b958e50f520.pdf)       | Udacity (100k Coders Initiative) |
-| [Data Science Fundamentals](./certifications/c88bfd51-5e79-49e8-bfd0-2680056df046.pdf) | Udacity (100k Coders Initiative) |
-| [Programming Fundamentals](./certifications/11d1ccaa-df02-4cf0-938f-98d37efbe6fe.pdf)  | Udacity (100k Coders Initiative) |
+| Title                                                                                                                           | Issuer                           |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Kotlin Fundamentals](./certifications/e958e310-c968-4019-b40b-2b958e50f520.pdf)                                                | Udacity (100k Coders Initiative) |
+| [Data Science Fundamentals](./certifications/c88bfd51-5e79-49e8-bfd0-2680056df046.pdf)                                          | Udacity (100k Coders Initiative) |
+| [Programming Fundamentals](./certifications/11d1ccaa-df02-4cf0-938f-98d37efbe6fe.pdf)                                           | Udacity (100k Coders Initiative) |
+| Java Programming                                                                                                                | Global Technology                |
+| Python Programming                                                                                                              | Global Technology                |
+| C Programming                                                                                                                   | Global Technology                |
+| VB & .NET UI Programming                                                                                                        | Global Technology                |
+| MSSQL Server 2019                                                                                                               | Global Technology                |
+| [Enterprise Design Thinking Practitioner](./certifications/Enterprise_Design_Thinking_Practitioner_Badge20240409-45-g9cwkn.pdf) | IBM                              |
 
 ## _Github Statistics_
 

@@ -7,6 +7,16 @@
 I’m seasoned professional specializing in cybersecurity, software engineering, and cryptocurrency derivatives trading, that has accumulted over five years of hands on industry experience. I am dedicated to fostering technological innovation and excellence. As an active contributor to open-source projects, I embrace the ethos of collaboration and progress. Through meticulous research, strategic analysis, and practical insights. Feel free to explore my curated portfolio of projects and delve into comprehensive analyses to stay informed and empowered in the dynamic realms of technology and finance.
 <br />
 
+## _Certifications Attained_
+
+| Title                                                                                  | Issuer                           |
+| -------------------------------------------------------------------------------------- | -------------------------------- |
+| [Kotlin Fundamentals](./certifications/e958e310-c968-4019-b40b-2b958e50f520.pdf)       | Udacity (100k Coders Initiative) |
+| [Data Science Fundamentals](./certifications/c88bfd51-5e79-49e8-bfd0-2680056df046.pdf) | Udacity (100k Coders Initiative) |
+| [Programming Fundamentals](./certifications/11d1ccaa-df02-4cf0-938f-98d37efbe6fe.pdf)  | Udacity (100k Coders Initiative) |
+
+## _Github Statistics_
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddenobrega&layout=compact&langs_count=30)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ddenobrega&theme=tokyonight&show_icons=true&count_private=true)

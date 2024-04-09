@@ -1,152 +1,16 @@
 # _Welcome to My Github_
 
-## _Portfolio_
-
-https://ddenobrega.github.io/portfolio
-
-## _Languages and tools_
-
-<table>
-<tbody>
-<tr>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-<center>Electron</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<center>Rust</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<center>C11++</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<center>NestJS</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<center>Typescript</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<center>Angular</center>
-</td>
-</tr>
-<tr>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<center>VueJs</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<center>Python</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<center>JavaScript</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<center>ReactJs</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<center>C99</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<center>Android</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<center>Shell</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<center>Vim</center>
-</td>
-</tr>
-<tr>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<center>CSS3</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<center>HTML5</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<center>Java</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<center>NodeJs</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<center>Express</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<center>Linux</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<center>GoLang</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<center>Django</center>
-</td>
-</tr>
-<tr>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<center>Flask</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<center>Pandas</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<center>Unity</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<center>CSharp</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<center>MonogDb</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<center>MsSql</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<center>Tailwind</center>
-</td>
-<td>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<center>Nginx</center>
-</td>
-</tr>
-</tbody>
-</table>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxNDRwZDF3eXdland4b3doNHI0czl2N2M4dnk5dTB0M3g3NjFibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif" height="250px" width="100%" fit="cover" alt="Header" />
 
 ## _About Me_
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddenobrega&layout=compact&langs_count=30)
+I’m seasoned professional specializing in cybersecurity, software engineering, and cryptocurrency derivatives trading, that has accumulted over five years of hands on industry experience. I am dedicated to fostering technological innovation and excellence. As an active contributor to open-source projects, I embrace the ethos of collaboration and progress. Through meticulous research, strategic analysis, and practical insights. Feel free to explore my curated portfolio of projects and delve into comprehensive analyses to stay informed and empowered in the dynamic realms of technology and finance.
+<br />
 
-I'm a Software Engineer, Security Analyst, and IT consultant with years of hands-on experience. I'm always available to render assistance and actively accept commissions. Feel free to contact me if you have any inquiries.
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddenobrega&layout=compact&langs_count=30)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ddenobrega&theme=tokyonight&show_icons=true&count_private=true)
 
-## _Contact & Socials_
+## _Contact Information & Socials_
 
-![](https://img.shields.io/twitter/follow/DcDenobrega?label=Twitter&style=social) ![](https://img.shields.io/badge/Linkiden-Linkiden-blue?link=https://linkedin.com/in/ddenobrega) ![](https://img.shields.io/badge/Email-Email-red?link=malito://dcdenobrega@gmail.com)
+![Email: Daryl111000@gmail.com](https://img.shields.io/badge/daryl111000%40gmail.com-Email-red?logo=gmail&link=mailto%3Adaryl111000%40gmail.com) ![Whatsapp: +592-628-9341](https://img.shields.io/badge/%2B592_628_9341-Whatsapp_Messenger-green?logo=whatsapp&link=https%3A%2F%2Fwa.me%2F6289341)![Twitter: @Dcdenobrega](https://img.shields.io/badge/%40DcDenobrega-Twitter-black?logo=X&link=https%3A%2F%2Ftwitter.com%2FDcDenobrega) ![Linkedin: Dcdenobrega](https://img.shields.io/badge/dcdenobrega-LinkedIn-lightblue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdcdenobrega%2F)

@@ -1,6 +1,6 @@
 # _Welcome to My Github_
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxNDRwZDF3eXdland4b3doNHI0czl2N2M4dnk5dTB0M3g3NjFibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif" height="250px" width="100%" fit="cover" alt="Header" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxNDRwZDF3eXdland4b3doNHI0czl2N2M4dnk5dTB0M3g3NjFibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UndXEgN5iBwc/giphy.gif" align="center"  width="50%" fit="cover" alt="Header" />
 
 ## _About Me_
 
